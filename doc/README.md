@@ -2,7 +2,12 @@
 
 Here I add some notes about the course that I have read. 
 
-## RL Course by David Silver
+# Table of Content
+
+* [RL Course by David Silver](#RL_DAVID_SILVER)
+* 
+
+## RL Course by David Silver <a name="RL_DAVID_SILVER"></a>    
 
 The link of the course can be found in: [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
