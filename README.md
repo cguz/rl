@@ -20,32 +20,32 @@ In this repository we can find some useful reference about reinforcement learnin
 
 * RL Components.
 
- - Policy: agent's behavior function. It is a map from state to action.
+ * Policy: agent's behavior function. It is a map from state to action.
 
-   - Deterministic policy : a = pi(s)
-   - Stochastic policy : pi(a | s) = P[A = a | S = s]. The probability to take the action "a" conditioned by state "s".
+   * Deterministic policy : a = pi(s)
+   * Stochastic policy : pi(a | s) = P[A = a | S = s]. The probability to take the action "a" conditioned by state "s".
 
- - Value function: how good is each state and/or action. It is a prediction of future reward.
+ * Value function: how good is each state and/or action. It is a prediction of future reward.
 
-   - State value function (V), and action value funciton (Q)
+   * State value function (V), and action value funciton (Q)
 
- - Model: agent's representation of the environment. It predicts what the environment will do next.
+ * Model: agent's representation of the environment. It predicts what the environment will do next.
 
-   - Transitions (P): predicts the next state (dynamics).  P[S' = s' | S = s, A = a]
-   - Rewards (R): predicts the next (immediate) reward. E[R | S = s, A = a]
+   * Transitions (P): predicts the next state (dynamics).  P[S' = s' | S = s, A = a]
+   * Rewards (R): predicts the next (immediate) reward. E[R | S = s, A = a]
 
 
 * Categorizing RL (RL Agent Taxonomy).
 
- - Value Based: Value function and no policy. 
+ * Value Based: Value function and no policy. 
 
- - Policy Based: No Value function and Policy.
+ * Policy Based: No Value function and Policy.
 
- - Actor Critic: Policy and Value function. 
+ * Actor Critic: Policy and Value function. 
 
- - Model Free: Policy and / or Value function. No model.
+ * Model Free: Policy and / or Value function. No model.
 
- - Model Based: Policy and/or Value function. Model.
+ * Model Based: Policy and/or Value function. Model.
 
 
 
