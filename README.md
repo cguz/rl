@@ -8,14 +8,14 @@ In this repository we can find some useful reference about reinforcement learnin
 
 * RL problem.
 
- - observation (Ot) : it is the relevant information of the environment.
- - environment state (St^e) : it is the environment's private representation. It is usually not visible to the agent.
- - agent state (St^a) : it is the agent's internal representation. Any information the agent uses to pick the next action, used by reinforcement learning algorithims.
- - action (At) : task that can be executed by the agent.
- - reward (Rt) : +/- results that receives the agent. For instance, money, positive or negative value.
+ * observation (Ot) : it is the relevant information of the environment.
+ * environment state (St^e) : it is the environment's private representation. It is usually not visible to the agent.
+ * agent state (St^a) : it is the agent's internal representation. Any information the agent uses to pick the next action, used by reinforcement learning algorithims.
+ * action (At) : task that can be executed by the agent.
+ * reward (Rt) : +/- results that receives the agent. For instance, money, positive or negative value.
 
- - Fully observavibility : Ot = St^e = St^a
- - Partial observability : agent state is different from environment state.
+ * Fully observavibility : Ot = St^e = St^a
+ * Partial observability : agent state is different from environment state.
 
 
 * RL Components.
@@ -36,6 +36,12 @@ In this repository we can find some useful reference about reinforcement learnin
 
 
 * Categorizing RL (RL Agent Taxonomy).
+
+   Value example ![Value example](https://github.com/cguz/rl/blob/main/img/value-example.png?raw=true "Value example") 
+   
+   Policy example ![Policy example](https://github.com/cguz/rl/blob/main/img/policy-example.png?raw=true "Policy example") 
+   
+   Model example ![Model example](https://github.com/cguz/rl/blob/main/img/model-example.png?raw=true "Model example") 
 
  * Value Based: Value function and no policy. 
 
