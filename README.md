@@ -37,11 +37,17 @@ In this repository we can find some useful reference about reinforcement learnin
 
 * Categorizing RL (RL Agent Taxonomy).
 
-   Value example ![Value example](https://github.com/cguz/rl/blob/main/img/value-example.png?raw=true "Value example") 
+   Value example:
    
-   Policy example ![Policy example](https://github.com/cguz/rl/blob/main/img/policy-example.png?raw=true "Policy example") 
+   ![Value example](https://github.com/cguz/rl/blob/main/img/value-example.png?raw=true "Value example") 
    
-   Model example ![Model example](https://github.com/cguz/rl/blob/main/img/model-example.png?raw=true "Model example") 
+   Policy example:
+   
+   ![Policy example](https://github.com/cguz/rl/blob/main/img/policy-example.png?raw=true "Policy example") 
+   
+   Model example:
+   
+   ![Model example](https://github.com/cguz/rl/blob/main/img/model-example.png?raw=true "Model example") 
 
  * Value Based: Value function and no policy. 
 
