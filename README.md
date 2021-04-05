@@ -6,9 +6,9 @@ In this repository, we can find some useful references about reinforcement learn
 
 ## Folders
 
-In the :file_folder: doc I added some notes of some courses that I read. 
+In (:file_folder:) 'doc' I added some notes of some courses that I read. 
 
-In the :file_folder: src are some codes.
+In (:file_folder:) 'src' are some codes.
 
 ## Courses
 
